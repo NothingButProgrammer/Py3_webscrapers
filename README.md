@@ -1,1 +1,1 @@
-So here you will see my web scraper built with requests and python3. This project was made 1 year ago!
+So here you will see my web scraper built with requests and python3. This project was made 1 year ago, but modified this year (some files even today, because there was an image python.png which already had and image on it. )
