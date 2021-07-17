@@ -1,2 +1,1 @@
-# Py3_webscrapers
-Some of my web automation projects using python3 and requests library. Sorry about my poor English level!
+So here you will see my web scraper built with requests and python3. This project was made 1 year ago!
